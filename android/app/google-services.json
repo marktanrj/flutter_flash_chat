@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639642715158",
+    "firebase_url": "https://flash-chat-333ff.firebaseio.com",
+    "project_id": "flash-chat-333ff",
+    "storage_bucket": "flash-chat-333ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639642715158:android:f4e4c0ba38c37d5fbbe137",
+        "android_client_info": {
+          "package_name": "me.marktan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639642715158-r69m36d4u5rvtgr2tv218gdblsc5k6ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsYRWvTuL3rAaYo0O62L69RNojBgrt6QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639642715158-r69m36d4u5rvtgr2tv218gdblsc5k6ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
